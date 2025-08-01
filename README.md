@@ -1,1 +1,1 @@
-# Dashboard de Ventas Interactivo
+# Análisis de resultados de ventas de una tienda de cómputo y moda. 
