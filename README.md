@@ -1,4 +1,4 @@
-# Análisis de resultados de ventas de una tienda de cómputo y moda. 
+# Análisis de resultados de ventas de una tienda de cómputo y moda (Piloto). 
 En este proyecto, desarrollé un dashboard interactivo usando Power BI. A continuación, les mostraré más información al respecto.
 
 ![New Project](https://github.com/anton-zd/Dashboard-analitico-de-resultados-de-ventas/blob/main/assets/power_bi_portada.jpg?raw=true)
