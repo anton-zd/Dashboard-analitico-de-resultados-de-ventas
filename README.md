@@ -8,3 +8,9 @@ En este proyecto, utilicé **comandos DAX** como `DATE`, `CALCULATE` y `SWITCH` 
 El dashboard fue diseñado para ofrecer una visualización atractiva y estética, pero, sobre todo, para ser **claro y sencillo de leer**.
 
 A continuación, dejo el enlace de descarga del archivo de Power BI para que puedas analizarlo a fondo y ver la aplicación de mis conocimientos en el desarrollo de dashboards.
+
+Descarga el archivo de Power BI aquí: [Descargar Dashboard](https://github.com/anton-zd/Dashboard-analitico-de-resultados-de-ventas/raw/refs/heads/main/assets/PowerBIProject_01.pbix)
+
+---
+
+Hola
